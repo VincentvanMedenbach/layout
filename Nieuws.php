@@ -2,28 +2,34 @@
     <main>
         <section class="Nieuws">
             <article class="Zooi">
-                <h1>RollerCoaster Tycoon</h1>
+                <h3>RollerCoaster Tycoon</h3>
                 <img class="nieuwsIMG" src="img/RC.jpg" alt="woah">
-                <a href="Nieuws.Woah.php"> lees meer</a>
+                <p class="nieuwsartikelTEXT">RollerCoaster tycoon is uitgebracht op steam!</p>
+                <a class="NieuwsArtikelIMG" href="Nieuws.Woah.php"> lees meer</a>
             </article>
 
             <article class="Zooi">
-                <h1>Snes Mini uitgebracht</h1>
+                <h3>Snes Mini uitgebracht</h3>
                 <img class="nieuwsIMG" src="img/Snes.jpg" alt="Snes">
-                <a href="Nieuws.ark.php">lees meer</a>
+                <p class="nieuwsartikelTEXT">De Snes Mini is uitgebracht voor €80!</p>
+                <a class="NieuwsArtikelIMG" href="Nieuws.ark.php">lees meer</a>
             </article>
 
             <article class="Zooi">
-                <h1>War thunder nieuwe update</h1>
+                <h3 class="nieuwsartikelTEXT">War thunder nieuwe update</h3>
                 <img src="img/Wt.jpg" class="nieuwsIMG" alt="War thunder">
-                <a href="Nieuws.WarThunder.php">Lees meer</a>
+                <p class ="nieuwsartikelTEXT">Een nieuwe war thunder update, met een nieuwe tier!</p>
+                <a class="NieuwsArtikelIMG" href="Nieuws.WarThunder.php">Lees meer</a>
             </article>
 
             <article class="Zooi">
-                <h1>
+                <h3>
                     Battlefront 2 Beta
-                </h1>
-                <img src="img/bf.jpg" class="nieuwsIMG" alt="battlefront"> <a href="Nieuws.Battlefront%202.php">
+                </h3>
+
+                <img src="img/bf.jpg" class="nieuwsIMG" alt="battlefront">
+                <p class="nieuwsartikelTEXT">Binnenkort kom de battlefront 2 beta uit!</p>
+                <a class="NieuwsArtikelIMG" href="Nieuws.Battlefront%202.php">
                     lees meer</a>
             </article>
         </section>

@@ -4,13 +4,14 @@
             <h1>ROLLERCOASTER TYCOON CLASSIC VANDAAG BESCHIKBAAR OP STEAM</h1>
             <p>RollerCoaster Tycoon Classic is vanaf nu beschikbaar op Steam. De game is een remaster met alle features
                 van
-                de eerste twee RollerCoaster Tycoon-games.<br><br> <img class="nieuwsIMG" src="img/RC.jpg" alt="woah">
+                de eerste twee RollerCoaster Tycoon-games.<br><br>
 
                 Atari werkt samen met Chris Sawyer om de game opnieuw naar de PC te brengen. Sawyer is de bedenker van
                 de
                 originele RollerCoaster Tycoon-games. Het is geen remake van de eerste games, maar een nieuwe
                 interpretatie
                 van de RollerCoaster-games, iets wat SEGA recent heeft gedaan met Sonic Mania.<br><br>
+                <img class="BigImg" src="img/RC.jpg" alt="woah">
 
                 <iframe src="http://store.steampowered.com/widget/683900/"></iframe>
                 <br>

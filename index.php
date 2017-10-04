@@ -7,9 +7,6 @@
             </p>
             <img src="img/ark.jpg" alt="ark" id="ark">
         </article>
-        <article>
-
-        </article>
     </main>
 
 <?php require_once("Footer.php") ?>
