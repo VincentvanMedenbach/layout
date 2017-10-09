@@ -7,7 +7,7 @@
                 Een game die ik veel speel op het moment is Rocket League, deze speel ik vaak met vrienden.
 
 
-            </p><img src="img/rl.jpg" alt="Rocket League">
+            </p><img src="img/rl.jpg" alt="Rocket League" id="ark">
         </article>
     </main>
 <?php require_once("Footer.php") ?>
