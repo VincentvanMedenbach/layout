@@ -19,6 +19,21 @@ body {
 }
 
 /*Header*/
+h4 {
+    border: none;
+    width: auto;
+    background-color: #3e7a8c;
+    display: block;
+    vertical-align: middle;
+    padding: 20px;
+    font-size: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    color: inherit;
+    style: none;
+
+}
+
 header {
     background-color: #558C89;
     height: 170px;
@@ -33,6 +48,7 @@ li {
     list-style-type: none;
     font-size: 30px;
     padding: 2px;
+
 }
 
 img.logo {
@@ -45,7 +61,7 @@ img.logo {
     border: none;
     display: block;
     vertical-align: middle;
-    padding: 40px;
+    /*padding: 10px;*/
     -moz-border-radius: 15px;
     -webkit-border-radius: 15px;
     margin-top: 5px;
@@ -58,11 +74,11 @@ img.logo {
 }
 
 .current {
-    display: inline-flex;
+    display: block;
     vertical-align: middle;
     background-color: #FFF;
     border-bottom: 12px solid #FFF;
-    padding: 40px;
+    /*padding: 10px;*/
     -moz-border-radius: 15px;
     -webkit-border-radius: 15px;
     margin-top: 5px;
@@ -76,16 +92,17 @@ img.logo {
 }
 
 /*Pages*/
-#ark{
+#ark {
     padding: 40px;
     width: 60%;
 }
+
 main {
     background-color: #ECECEA;
     display: block;
     margin-left: 165px;
     margin-right: 165px;
-    height:auto;
+    height: auto;
     width: auto;
 }
 
@@ -94,6 +111,7 @@ h1 {
     background-color: darkslategrey;
 
 }
+
 h3 {
     padding: 10px;
     background-color: darkslategrey;
@@ -105,14 +123,17 @@ p.MenuKnoop {
     padding: 20px;
     white-space: nowrap;
 }
-p{
+
+p {
     padding: 20px
 }
-p.nieuwsartikelTEXT{
-    padding-bottom:0;
+
+p.nieuwsartikelTEXT {
+    padding-bottom: 0;
 
 }
-a.NieuwsArtikelIMG{
+
+a.NieuwsArtikelIMG {
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -189,5 +210,5 @@ Footer {
 iframe {
     width: 646px;
     height: 190px;
-    frame-border:0;
+    frame-border: 0;
 }

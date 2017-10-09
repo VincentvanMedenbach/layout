@@ -12,8 +12,10 @@ $pagina = basename($_SERVER["PHP_SELF"]);
 
 <body>
 <header>
+
     <img class="logo" src="img/Logo.png" alt="Logo">
     <nav>
+        <h4>Gaming mijn hobby!</h4>
         <ul>
             <li>
                 <a <?php if ($pagina == "index.php") {
